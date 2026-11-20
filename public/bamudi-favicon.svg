@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="22" fill="#FFFFFF" />
+  <!-- 1. Top 5-Pointed Rounded Star (Warm Golden Yellow) -->
+  <polygon
+    points="50,13 55.3,27.8 71,28.8 58.8,38.8 63,54 50,45.2 37,54 41.2,38.8 29,28.8 44.7,27.8"
+    fill="#FBB627"
+    stroke="#FBB627"
+    stroke-width="3.2"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <!-- 2. Center Downward Diamond Ray -->
+  <polygon
+    points="50,51 53.6,53.6 50,68.5 46.4,53.6"
+    fill="#FBB627"
+    stroke="#FBB627"
+    stroke-width="1.6"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <!-- 3. Open Book Golden Pages (Upper Arch + Center Spine) -->
+  <path
+    d="M 19 60.5
+       C 31 58.5 44 63.5 50 77.5
+       C 56 63.5 69 58.5 81 60.5
+       L 88.5 71
+       C 75 68.5 59.5 72 52.6 85.5
+       L 47.4 85.5
+       C 40.5 72 25 68.5 11.5 71
+       Z"
+    fill="#FBB627"
+    stroke="#FBB627"
+    stroke-width="1.8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <!-- 4. Open Book Golden Pages (Lower Left Layer) -->
+  <path
+    d="M 9.5 76.2
+       C 22.5 73.2 36.5 76 44.2 83.2
+       L 43 84.4
+       C 34 80.5 21 80.2 8 82.2
+       Z"
+    fill="#FBB627"
+    stroke="#FBB627"
+    stroke-width="1.8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <!-- 5. Open Book Golden Pages (Lower Right Layer) -->
+  <path
+    d="M 90.5 76.2
+       C 77.5 73.2 63.5 76 55.8 83.2
+       L 57 84.4
+       C 66 80.5 79 80.2 92 82.2
+       Z"
+    fill="#FBB627"
+    stroke="#FBB627"
+    stroke-width="1.8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <!-- 6. Deep Royal Navy Book Cover Base with Center Spine Cradle -->
+  <path
+    d="M 6 84.8
+       H 42.2
+       C 43.8 84.8 44.6 85.6 45.4 86.8
+       C 46.2 88 47.2 88.5 50 88.5
+       C 52.8 88.5 53.8 88 54.6 86.8
+       C 55.4 85.6 56.2 84.8 57.8 84.8
+       H 94
+       C 95.6 84.8 96.8 86 96.8 87.5
+       C 96.8 89 95.6 90.2 94 90.2
+       H 59.5
+       C 57.8 90.2 56.8 91 55.6 92.4
+       C 54.4 93.8 52.8 94.5 50 94.5
+       C 47.2 94.5 45.6 93.8 44.4 92.4
+       C 43.2 91 42.2 90.2 40.5 90.2
+       H 6
+       C 4.4 90.2 3.2 89 3.2 87.5
+       C 3.2 86 4.4 84.8 6 84.8
+       Z"
+    fill="#003B7A"
+  />
+</svg>

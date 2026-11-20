@@ -1,0 +1,6 @@
+{
+  "name": "BaMuDi – Bantu Mula Digital",
+  "description": "Platform sokongan pembelajaran dan pengajaran digital untuk memperkasakan guru ke arah celik digital dan berkeyakinan tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
